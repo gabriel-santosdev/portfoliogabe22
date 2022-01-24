@@ -103,7 +103,10 @@ header {
 
 
 /* Section Banner */
-
+.logo img {
+    width: 25rem;
+    height: 17rem;
+}
 
 #banner {
     width: 100vw;
@@ -190,7 +193,6 @@ header {
 
 
 /* Section Sobre mim */
-
 
 #sobre-mim {
     width: 100vw;
